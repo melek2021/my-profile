@@ -1,0 +1,18 @@
+﻿color: #FF530D;
+color: rgb(255, 83, 13);
+color: rgba(255, 83, 13, 1.0);
+body {
+  color: rgb(255, 234, 202); /* beige */
+  color: rgb(255, 188, 188); /* peach */
+  color: rgb(240, 143, 192); /* pink */
+  color: rgb(131, 81, 81);   /* brown */
+  color: rgb(255, 255, 255); /* white */
+}
+body {
+  font-family: Times, serif;
+	font-family: Arial, sans-serif;
+	font-family: Courier, monospace;
+body {
+  font-size: 60px;
+	line-height: 4.8;
+	letter-spacing: 1px;
